@@ -1,0 +1,1 @@
+["fileversion":"v0.1","name":"Acute","characters":"Hatsune Miku, Megurine Luka, KAITO","description":"?","filesize":"8.7 MB","lang":"Japanese"]
